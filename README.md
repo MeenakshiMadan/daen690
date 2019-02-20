@@ -1,18 +1,20 @@
 # daen690
 LOCI Project NB Classifier
 
-#store all positive classified training text here
+## Modify the below prior to running.
 
-pos_file_dir = "txt_sentoken/pos/"
+*Store all positive classified training text here
 
-#store all negative classified training text here
+`pos_file_dir = "txt_sentoken/pos/"`
 
-neg_file_dir = "txt_sentoken/neg/"
+*store all negative classified training text here
 
-#store list of headlines here
+`neg_file_dir = "txt_sentoken/neg/"`
 
-headline_dir = "headlines/"
+*store list of headlines here
 
-#output file name
+`headline_dir = "headlines/"`
 
-output_file = "output.csv"
+*output file name
+
+`output_file = "output.csv"`
