@@ -3,18 +3,18 @@ LOCI Project NB Classifier
 
 ## Modify the below prior to running.
 
-*Store all positive classified training text here
+* Store all positive classified training text here
 
 `pos_file_dir = "txt_sentoken/pos/"`
 
-*store all negative classified training text here
+* store all negative classified training text here
 
 `neg_file_dir = "txt_sentoken/neg/"`
 
-*store list of headlines here
+* store list of headlines here
 
 `headline_dir = "headlines/"`
 
-*output file name
+* output file name
 
 `output_file = "output.csv"`
